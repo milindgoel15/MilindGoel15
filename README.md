@@ -22,7 +22,7 @@
 ###  Contact Me Here:
 [![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/milindgoel15)
 [![Twitter](https://img.shields.io/badge/-Twitter-%23282a36?style=for-the-badge&logo=Twitter)](https://www.twitter.com/millindgoel15)
-[![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logo=YouTube)](https://www.youtube.com/milindgoel15)
+[![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/milindgoel15)
 
 <!-- - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning Javascript
