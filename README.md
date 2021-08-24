@@ -7,6 +7,7 @@
 - Beginner Web developer & B.Com Graduate
 - I also make themes for TelegramX app on android and publish them on [my channel here](https://t.me/MilindGoel15TgXThemes) 
 - I know HTML5 & SCSS
+- I have also done video editing for my YouTube Channel and for commerce teaching channel.
 
 ---
 
