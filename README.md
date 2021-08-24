@@ -11,7 +11,7 @@
 ---
 
 ### Projects & Contributions:
-- [Personal Portfolio](https://milindgoel15.gitub.io)
+- [Personal Portfolio](https://milindgoel15.github.io)
 - Worked on website for a [Chartered Accountant firm](https://abhishekgoelandassociates.com) (HTML5, SCSS, JS)
 - Member and contributor of [Retro Music Player](https://github.com/RetroMusicPlayer)
 - My other contributions can be found [here](https://github.com/milindgoel15)
