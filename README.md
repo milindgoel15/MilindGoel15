@@ -42,3 +42,9 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-%23282a36?style=for-the-badge&logo=Twitter)](https://www.twitter.com/millindgoel15)
 [![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/milindgoel15)
 [![Gmail](https://img.shields.io/badge/Gmail-%23282a36?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:milindgoel15@gmail.com)
+
+
+---
+
+## GitHub Stats
+[![Milind's GitHub stats](https://github-readme-stats.vercel.app/api?username=milindgoel15&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
