@@ -48,3 +48,8 @@
 
 ### GitHub Stats
 [![Milind's GitHub stats](https://github-readme-stats.vercel.app/api?username=milindgoel15&theme=midnight-purple&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### Most used languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milindgoel15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
