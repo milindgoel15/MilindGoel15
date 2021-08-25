@@ -1,4 +1,4 @@
-### Hi👋, I'm Milind Goel
+## Hi👋, I'm Milind Goel
 
 ---
 
@@ -46,5 +46,5 @@
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 [![Milind's GitHub stats](https://github-readme-stats.vercel.app/api?username=milindgoel15&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
