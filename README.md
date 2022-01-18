@@ -19,7 +19,7 @@
 - Designed responsive and appealing website for [IT and e-commerce operators](http://mwsretail.in) (HTML5, SCSS, Bootstrap)
 - My [old website](https://github.com/milindgoel15/Old-website) written with plain HTML5 and CSS3
 - Member and contributor of [Retro Music Player](https://github.com/RetroMusicPlayer)
-- You can find my other contributions [here](https://github.com/milindgoel15).
+- You can find my other contributions [here](https://github.com/milindgoel15?tab=repositories).
 
 ---
 
