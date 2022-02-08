@@ -14,10 +14,10 @@
 ---
 
 ### Projects & Contributions:
-- [Personal Portfolio](https://milindgoel15.github.io) (HTML5, CSS3, Tailwind CSS & JS)
+- [Personal Portfolio](https://milindgoel15.github.io) (HTML5, Tailwind CSS & JS)
 - Designed & Worked on website for a [Chartered Accountant firm](https://abhishekgoelandassociates.com) (HTML5, SCSS, JS & Tailwind CSS)
-- Designed responsive and appealing website for [IT and e-commerce operators](http://mwsretail.in) (HTML5, SCSS, Bootstrap)
-- My [old website](https://github.com/milindgoel15/Old-website) written with plain HTML5 and CSS3
+- Designed responsive and appealing website for [IT and e-commerce operators](http://mwsretail.in) (HTML5, TailwindCSS & AlpineJS)
+- My [old website](https://github.com/milindgoel15/Old-website) (HTML5 & CSS3)
 - Member and contributor of [Retro Music Player](https://github.com/RetroMusicPlayer)
 - You can find my other contributions [here](https://github.com/milindgoel15?tab=repositories).
 
