@@ -57,7 +57,7 @@
 ---
 
 ###  Social accounts:
-[![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/milindgoel15)
+[![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=for-the-badge&logo=Telegram)](https://telegram.me/milindgoel15)
 [![Twitter](https://img.shields.io/badge/-Twitter-%23282a36?style=for-the-badge&logo=Twitter)](https://www.twitter.com/millindgoel15)
 [![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/milindgoel15)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23282a36.svg?style=for-the-badge&logo=Instagram&logoColor=23E4405F)](https://www.instagram.com/milindgoel15)
