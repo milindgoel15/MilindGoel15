@@ -13,6 +13,7 @@
 ---
 
 ### Projects & Contributions:
+- [Number Counter App](https://milindgoel15.github.io/NumberCounterApp/) (ReactJS, TailwindCSS)
 - [Dice Game](https://milindgoel15.github.io/DiceGame/) (TailwindCSS, JS)
 - [Personal Portfolio](https://milindgoel15.github.io) (TailwindCSS, AlpineJS, BarbaJS & GSAP)
 - Designed & Worked on website for a [Chartered Accountant firm](https://abhishekgoelandassociates.com) (HTML5, SCSS, JS & Tailwind CSS)
