@@ -13,10 +13,10 @@
 ---
 
 ### Projects & Contributions:
+- Designed & Worked on website for a [Chartered Accountant firm](https://abhishekgoelandassociates.com) (Re-Built with ReactJS & TailwindCSS)
 - [Number Counter App](https://milindgoel15.github.io/NumberCounterApp/) (ReactJS, TailwindCSS)
 - [Dice Game](https://milindgoel15.github.io/DiceGame/) (TailwindCSS, JS)
 - [Personal Portfolio](https://milindgoel15.github.io) (TailwindCSS, AlpineJS, BarbaJS & GSAP)
-- Designed & Worked on website for a [Chartered Accountant firm](https://abhishekgoelandassociates.com) (HTML5, SCSS, JS & Tailwind CSS)
 - Designed responsive and appealing website for [IT and e-commerce operators](http://mwsretail.in) (HTML5, TailwindCSS & AlpineJS)
 - My [old website](https://github.com/milindgoel15/Old-website) (HTML5 & CSS3)
 - Member and contributor of [Retro Music Player](https://github.com/RetroMusicPlayer)
