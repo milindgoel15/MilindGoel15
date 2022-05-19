@@ -13,6 +13,7 @@
 ---
 
 ### Projects & Contributions:
+- [Microsoft Clone Project](https://milindgoel15.github.io/microsoft-clone/) (ReactJS & TailwindCSS)
 - A simple [Frontend Netflix clone](https://milindgoel15.github.io/netflix-clone/) with slightly improved styling (ReactJS & TailwindCSS)
 - Designed & Worked on website for a [Chartered Accountant firm](https://abhishekgoelandassociates.com) (Re-Built with ReactJS & TailwindCSS)
 - [Number Counter App](https://milindgoel15.github.io/NumberCounterApp/) (ReactJS, TailwindCSS)
