@@ -13,12 +13,12 @@
 ---
 
 ### Projects & Contributions:
+- [Personal Portfolio](https://milindgoel.vercel.app/) (Next.js & TailwindCSS)
 - [Microsoft Clone Project](https://milindgoel15.github.io/microsoft-clone/) (ReactJS & TailwindCSS)
 - A simple [Frontend Netflix clone](https://milindgoel15.github.io/netflix-clone/) with slightly improved styling (ReactJS & TailwindCSS)
 - Designed & Worked on website for a [Chartered Accountant firm](https://abhishekgoelandassociates.com) (Re-Built with ReactJS & TailwindCSS)
 - [Number Counter App](https://milindgoel15.github.io/NumberCounterApp/) (ReactJS, TailwindCSS)
 - [Dice Game](https://milindgoel15.github.io/DiceGame/) (TailwindCSS, JS)
-- [Personal Portfolio](https://milindgoel15.github.io) (TailwindCSS, AlpineJS, BarbaJS & GSAP)
 - Designed responsive and appealing website for [IT and e-commerce operators](http://mwsretail.in) (HTML5, TailwindCSS & AlpineJS)
 - My [old website](https://github.com/milindgoel15/Old-website) (HTML5 & CSS3)
 - Member and contributor of [Retro Music Player](https://github.com/RetroMusicPlayer)
