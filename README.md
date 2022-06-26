@@ -13,6 +13,7 @@
 ---
 
 ### Projects & Contributions:
+- [Quiz Trivia app](https://github.com/milindgoel15/quiztrivia) (Next.js, TailwindCSS & Open Trivia API)
 - [Personal Portfolio V2.1](https://milindgoel.vercel.app/) (Next.js & TailwindCSS)
 - [Microsoft Clone Project](https://milindgoel15.github.io/microsoft-clone/) (ReactJS & TailwindCSS)
 - A simple [Frontend Netflix clone](https://milindgoel15.github.io/netflix-clone/) with slightly improved styling (ReactJS & TailwindCSS)
