@@ -72,6 +72,10 @@
 
 ---
 
+[![](https://visitcount.itsvg.in/api?id=MilindGoel15&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+---
+
 ### GitHub Stats
 [![Milind's GitHub stats](https://github-readme-stats.vercel.app/api?username=milindgoel15&theme=github_dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
