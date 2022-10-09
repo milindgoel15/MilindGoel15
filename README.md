@@ -71,9 +71,6 @@
 [![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/milindgoel15)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23282a36.svg?style=for-the-badge&logo=Instagram&logoColor=23E4405F)](https://www.instagram.com/milindgoel15)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=MilindGoel15&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ---
 
@@ -84,3 +81,7 @@
 
 ### Most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milindgoel15&layout=compact&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=MilindGoel15&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
