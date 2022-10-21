@@ -4,8 +4,8 @@
 
 ### About Me:
 
-- Web Developer, B.Com Graduate & CS Student.
-- I also make themes for the TelegramX app on android and publish them on [my channel here](https://t.me/MilindGoel15TgXThemes).
+- Web & Flutter Developer, B.Com Graduate & CS Student.
+- I also make themes for the TelegramX app on android and publish them on [my channel here](https://telegram.me/MilindGoel15TgXThemes).
 - I have also done video editing for [my YouTube Channel](https://www.youtube.com/milindgoel15) and [Education channel](https://www.youtube.com/NeetuGuptaClasses).
 - I also have a deep interest in installing Custom ROMs, rooting, Substratum/Swift theming, etc...
 - I listen to different kinds of music(NCS, Chill, Ambient, Punjabi, Hindi & English) on [Spotify](https://open.spotify.com/playlist/39EzsLVomjolBfWYAd6Tw3).
@@ -13,6 +13,7 @@
 ---
 
 ### Projects & Contributions:
+- [Retro Weather](https://telegram.me/RetroWeather) (Flutter)
 - [Frontend Apple Clone Project](https://milindgoel15.github.io/apple-clone/) (ReactJS & TailwindCSS)
 - [Quiz Trivia app](https://github.com/milindgoel15/quiztrivia) (Next.js, TailwindCSS & Open Trivia API)
 - [Personal Portfolio V2.1](https://milindgoel.vercel.app/) (Next.js & TailwindCSS)
