@@ -24,8 +24,6 @@
 - [Dice Game](https://milindgoel15.github.io/DiceGame/) (TailwindCSS, JS)
 - Designed responsive and appealing website for [IT and e-commerce operators](http://mwsretail.in) (HTML5, TailwindCSS & AlpineJS)
 - Member and contributor of [Retro Music Player](https://github.com/RetroMusicPlayer)
-- [Personal Portfolio V2](https://github.com/milindgoel15/portfolio-v2) (TailwindCSS, AlpineJS, Barba.js)
-- [Personal Portfolio V1](https://github.com/milindgoel15/Old-website) (HTML5 & CSS3)
 - You can find my other contributions [here](https://github.com/milindgoel15?tab=repositories).
 
 ---
