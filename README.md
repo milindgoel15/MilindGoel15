@@ -13,7 +13,7 @@
 ---
 
 ### Projects & Contributions:
-- [Retro Weather](https://telegram.me/RetroWeather) (Flutter)
+- [WeatherWise: Live & Forecast](https://telegram.me/WeatherWiseApp) (Flutter, Firebase, Material You)
 - [Frontend Apple Clone Project](https://milindgoel15.github.io/apple-clone/) (ReactJS & TailwindCSS)
 - [Quiz Trivia app](https://github.com/milindgoel15/quiztrivia) (Next.js, TailwindCSS & Open Trivia API)
 - [Personal Portfolio V2.1](https://milindgoel.vercel.app/) (Next.js & TailwindCSS)
