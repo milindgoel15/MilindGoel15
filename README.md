@@ -4,7 +4,7 @@
 
 ### About Me:
 
-- Web & Flutter Developer, B.Com Graduate & CS Student.
+- Web & Flutter Developer & CS Student.
 - I also make themes for the TelegramX app on android and publish them on [my channel here](https://telegram.me/MilindGoel15TgXThemes).
 - I have also done video editing for [my YouTube Channel](https://www.youtube.com/milindgoel15) and [Education channel](https://www.youtube.com/NeetuGuptaClasses).
 - I also have a deep interest in installing Custom ROMs, rooting, Substratum/Swift theming, etc...
