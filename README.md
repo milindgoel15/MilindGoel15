@@ -14,17 +14,20 @@
 
 ### Projects & Contributions:
 - [WeatherWise: Live & Forecast](https://telegram.me/WeatherWiseApp) (Flutter, Firebase, Material You)
-- [Frontend Apple Clone Project](https://milindgoel15.github.io/apple-clone/) (ReactJS & TailwindCSS)
 - [Quiz Trivia app](https://github.com/milindgoel15/quiztrivia) (Next.js, TailwindCSS & Open Trivia API)
 - [Personal Portfolio V2.1](https://milindgoel.vercel.app/) (Next.js & TailwindCSS)
-- [Frontend Microsoft Clone Project](https://milindgoel15.github.io/microsoft-clone/) (ReactJS & TailwindCSS)
-- [Frontend Netflix Clone Project](https://milindgoel15.github.io/netflix-clone/) with slightly improved styling (ReactJS & TailwindCSS)
 - Designed & Worked on website for a [Chartered Accountant firm](https://abhishekgoelandassociates.com) (Re-Built with ReactJS & TailwindCSS)
-- [Number Counter App](https://milindgoel15.github.io/NumberCounterApp/) (ReactJS, TailwindCSS)
 - [Dice Game](https://milindgoel15.github.io/DiceGame/) (TailwindCSS, JS)
 - Designed responsive and appealing website for [IT and e-commerce operators](http://mwsretail.in) (HTML5, TailwindCSS & AlpineJS)
 - Member and contributor of [Retro Music Player](https://github.com/RetroMusicPlayer)
 - You can find my other contributions [here](https://github.com/milindgoel15?tab=repositories).
+
+---
+
+### Clone Projects (For learning purposes only):
+- [Frontend Apple Clone Project](https://milindgoel15.github.io/apple-clone/) (ReactJS & TailwindCSS)
+- [Frontend Microsoft Clone Project](https://milindgoel15.github.io/microsoft-clone/) (ReactJS & TailwindCSS)
+- [Frontend Netflix Clone Project](https://milindgoel15.github.io/netflix-clone/) with slightly improved styling (ReactJS & TailwindCSS)
 
 ---
 
