@@ -2,7 +2,7 @@
 
 ---
 
-### About Me:
+## About Me:
 
 -  Web & Flutter Developer, CS Student.
 -  Deep interest in installing Custom ROMs, rooting, Substratum/Swift theming, etc...
@@ -53,8 +53,6 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-<hr style="width:60%; text-align:left;margin-left:0; border-width: 2px; solid gray" />
-
 ### Frameworks:
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -63,20 +61,14 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-<hr style="width:60%; text-align:left;margin-left:0; border-width: 2px; solid gray" />
-
 ### Version Control:
 
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<hr style="width:60%; text-align:left;margin-left:0; border-width: 2px; solid gray" />
-
 ### Package Managers:
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-<hr style="width:60%; text-align:left;margin-left:0; border-width: 2px; solid gray" />
 
 ### IDEs/Editors:
 
@@ -88,8 +80,6 @@
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<hr style="width:60%; text-align:left;margin-left:0; border-width: 2px; solid gray" />
-
 ### Design tools:
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
@@ -98,15 +88,11 @@
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<hr style="width:60%; text-align:left;margin-left:0; border-width: 2px; solid gray" />
-
 ### Operating Systems:
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-<hr style="width:60%; text-align:left;margin-left:0; border-width: 2px; solid gray" />
 
 ### Databases:
 
@@ -115,13 +101,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 
-<hr style="width:60%; text-align:left;margin-left:0; border-width: 2px; solid gray" />
-
 ### Hosting/SaaS:
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-<hr style="width:60%; text-align:left;margin-left:0; border-width: 2px; solid gray" />
 
 ### ML/DL:
 
