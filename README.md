@@ -152,4 +152,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MilindGoel15&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=MilindGoel15&style=for-the-badge)
