@@ -4,9 +4,10 @@
 
 ## About Me:
 
--  Web & Flutter Developer, CS Student.
--  Deep interest in installing Custom ROMs, rooting, Substratum/Swift theming, etc...
--  I love listening to music of different genre and languages on [Spotify](https://open.spotify.com/playlist/39EzsLVomjolBfWYAd6Tw3).
+-  👨‍💻 Web & Flutter Developer, CS Student.
+-  💻 Favorite Tech Stack: Next.js, TailwindCSS, Vite, Typescript, Flutter
+-  🎧 I love listening to music of different genre and languages on [Spotify](https://open.spotify.com/playlist/39EzsLVomjolBfWYAd6Tw3).
+-  🌱 Currently learning React Native and building project.
 
 ---
 
