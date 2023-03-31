@@ -16,9 +16,9 @@
 -  [WeatherWise: Live & Forecast](https://github.com/MGAndroidProjects/WeatherWise-Releases) (Flutter, Firebase, Material You, Closed Source)
 -  [Quiz Trivia app](https://github.com/milindgoel15/quiztrivia) (Next.js, TailwindCSS & Open Trivia API)
 -  [Personal Portfolio V2.1](https://milindgoel.vercel.app/) (Next.js, Typescript & TailwindCSS)
--  Designed & Worked on website for a [Chartered Accountant firm](https://abhishekgoelandassociates.com) (Re-Built using Vite, ReactJS, Typescript & TailwindCSS)
+-  Designed & Worked on website for a [Chartered Accountant firm](https://abhishekgoelandassociates.com) (Re-Built using Vite, ReactJS, Typescript, Framer motion & TailwindCSS)
 -  [Dice Game](https://milindgoel15.github.io/DiceGame/) (TailwindCSS, JS)
--  Designed responsive and appealing website for [IT and e-commerce operators](http://mwsretail.in) (HTML5, TailwindCSS & AlpineJS)
+-  Designed responsive and appealing website for [IT and e-commerce operators](http://mwsretail.in) (Re-Built using Vite, ReactJS, Typescript, Framer motion & TailwindCSS)
 -  Member and contributor of [Retro Music Player](https://github.com/RetroMusicPlayer)
 -  You can find my other contributions [here](https://github.com/milindgoel15?tab=repositories).
 
