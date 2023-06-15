@@ -7,7 +7,6 @@
 -  👨‍💻 Web & Flutter Developer, CS Student.
 -  💻 Favorite Tech Stack: Next.js, TailwindCSS, Vite, Typescript, Framer Motion, Flutter
 -  🎧 I love listening to music of different genre and languages on [Spotify](https://open.spotify.com/playlist/39EzsLVomjolBfWYAd6Tw3).
--  🌱 Currently learning React Native and building project.
 
 ---
 
