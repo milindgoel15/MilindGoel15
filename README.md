@@ -12,7 +12,8 @@
 
 ## Projects & Contributions:
 
--  [WeatherWise: Live & Forecast](https://github.com/MGAndroidProjects/WeatherWise-Releases) (Flutter, Firebase, Material You, Closed Source)
+-  [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) (Flutter, Realm DB, Firebase analytics, Material You, Closed Source)
+-  [WeatherWise: Live & Forecast](https://github.com/MGAndroidProjects/WeatherWise-Releases) (Flutter, Firebase analytics, Material You, Closed Source)
 -  [Personal Portfolio V2.1](https://milindgoel.vercel.app/) (Next.js, Typescript, Framer motion & TailwindCSS)
 -  [Quiz Trivia app](https://github.com/milindgoel15/quiztrivia) (Next.js, TailwindCSS & Open Trivia API)
 -  Designed & Worked on website for a [Chartered Accountant firm](https://abhishekgoelandassociates.com) (Re-Built using Vite, ReactJS, Typescript, Framer motion & TailwindCSS)
@@ -97,10 +98,10 @@
 
 ### Databases:
 
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 
 ### Hosting/SaaS:
 
