@@ -4,9 +4,9 @@
 
 ## About Me:
 
--  👨‍💻 Web & Flutter Developer, CS Student.
+-  👨‍💻 Web & Flutter Developer
 -  💻 Favorite Tech Stack: Next.js, TailwindCSS, Vite, Typescript, Framer Motion, Flutter
--  🎧 I love listening to music of different genre and languages on [Spotify](https://open.spotify.com/playlist/39EzsLVomjolBfWYAd6Tw3).
+-  🎧 I love listening to the music of different genres and languages on [Spotify](https://open.spotify.com/playlist/39EzsLVomjolBfWYAd6Tw3).
 
 ---
 
@@ -16,7 +16,7 @@
 -  [WeatherWise: Live & Forecast](https://github.com/MGAndroidProjects/WeatherWise-Releases) (Flutter, Firebase analytics, Material You, Closed Source)
 -  [Personal Portfolio V2.1](https://milindgoel.vercel.app/) (Next.js, Typescript, Framer motion & TailwindCSS)
 -  [Quiz Trivia app](https://github.com/milindgoel15/quiztrivia) (Next.js, TailwindCSS & Open Trivia API)
--  Designed & Worked on website for a [Chartered Accountant firm](https://abhishekgoelandassociates.com) (Re-Built using Vite, ReactJS, Typescript, Framer motion & TailwindCSS)
+-  Designed & Worked on a website for a [Chartered Accountant firm](https://abhishekgoelandassociates.com) (Re-Built using Vite, ReactJS, Typescript, Framer motion & TailwindCSS)
 -  Designed responsive and appealing website for [IT and e-commerce operators](http://mwsretail.in) (Re-Built using Vite, ReactJS, Typescript, Framer motion & TailwindCSS)
 -  [Dice Game](https://milindgoel15.github.io/DiceGame/) (TailwindCSS, JS)
 -  Member and contributor of [Retro Music Player](https://github.com/RetroMusicPlayer)
