@@ -5,7 +5,7 @@
 ## About Me:
 
 -  👨‍💻 Web & Flutter Developer
--  💻 Favorite Tech Stack: Next.js, TailwindCSS, Vite, Typescript, Framer Motion, Flutter
+-  💻 Favorite Tech Stack: Next.js, TailwindCSS, Vite, Typescript, Flutter
 -  🎧 I love listening to the music of different genres and languages on [Spotify](https://open.spotify.com/playlist/39EzsLVomjolBfWYAd6Tw3).
 
 ---
@@ -16,8 +16,8 @@
 -  [WeatherWise: Live & Forecast](https://github.com/MGAndroidProjects/WeatherWise-Releases) (Flutter, Firebase analytics, Material You, Closed Source)
 -  [Personal Portfolio V2.1](https://milindgoel.vercel.app/) (Next.js, Typescript, Framer motion & TailwindCSS)
 -  [Quiz Trivia app](https://github.com/milindgoel15/quiztrivia) (Next.js, TailwindCSS & Open Trivia API)
--  Designed & Worked on a website for a [Chartered Accountant firm](https://abhishekgoelandassociates.com) (Re-Built using Vite, ReactJS, Typescript, Framer motion & TailwindCSS)
--  Designed responsive and appealing website for [IT and e-commerce operators](http://mwsretail.in) (Re-Built using Vite, ReactJS, Typescript, Framer motion & TailwindCSS)
+-  Designed and worked on a website for a [Chartered Accountant firm](https://abhishekgoelandassociates.com) (Vite, ReactJS, Typescript, Framer motion & TailwindCSS)
+-  Designed responsive and appealing website for [IT and e-commerce operators](http://mwsretail.in) (Vite, ReactJS, Typescript, Framer motion & TailwindCSS)
 -  [Dice Game](https://milindgoel15.github.io/DiceGame/) (TailwindCSS, JS)
 -  Member and contributor of [Retro Music Player](https://github.com/RetroMusicPlayer)
 -  You can find my other contributions [here](https://github.com/milindgoel15?tab=repositories).
@@ -39,7 +39,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -54,10 +53,13 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -71,6 +73,7 @@
 ### Package Managers:
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 
 ### IDEs/Editors:
 
@@ -102,6 +105,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ORM:
+
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### Hosting/SaaS:
 
