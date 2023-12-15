@@ -14,7 +14,7 @@
 
 -  [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) (Flutter, Realm DB, Firebase analytics, Material You, Closed Source)
 -  [WeatherWise: Live & Forecast](https://github.com/MGAndroidProjects/WeatherWise-Releases) (Flutter, Firebase analytics, Material You, Closed Source)
--  [Personal Portfolio V2.1](https://milindgoel.vercel.app/) (Next.js, Typescript, Framer motion & TailwindCSS)
+-  [Personal Portfolio](https://milindgoel.vercel.app/) (Next.js, Typescript, Framer motion & TailwindCSS)
 -  [Quiz Trivia app](https://github.com/milindgoel15/quiztrivia) (Next.js, TailwindCSS & Open Trivia API)
 -  Designed and worked on a website for a [Chartered Accountant firm](https://abhishekgoelandassociates.com) (Vite, ReactJS, Typescript, Framer motion & TailwindCSS)
 -  Designed responsive and appealing website for [IT and e-commerce operators](http://mwsretail.in) (Vite, ReactJS, Typescript, Framer motion & TailwindCSS)
