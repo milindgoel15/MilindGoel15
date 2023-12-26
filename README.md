@@ -12,6 +12,7 @@
 
 ## Projects & Contributions:
 
+-  [StyleCentral](https://stylecentral.vercel.app) (Next.js, Next-auth, Prisma, MongoDB, Redux, Stripe, TailwindCSS)
 -  [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) (Flutter, Realm DB, Firebase analytics, Material You, Closed Source)
 -  [WeatherWise: Live & Forecast](https://github.com/MGAndroidProjects/WeatherWise-Releases) (Flutter, Firebase analytics, Material You, Closed Source)
 -  [Personal Portfolio](https://milindgoel.vercel.app/) (Next.js, Typescript, Framer motion & TailwindCSS)
